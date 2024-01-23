@@ -12,4 +12,4 @@
 </div>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="330" height="230"/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eddyalexdev&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eddyalexdev&show_icons=true&bg_color=323232&text_color=fff)
