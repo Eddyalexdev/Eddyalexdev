@@ -62,17 +62,3 @@ Trabajo con tecnologías modernas como **React, Vue, Node.js, Express, PostgreSQ
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eddyalexchambi&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyalexchambi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ✨ Frase que me define
-> “Construyo soluciones limpias, eficientes y con propósito. Cada línea de código debe aportar valor.”
-
----
