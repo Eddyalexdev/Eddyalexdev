@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Eddy Alex Chambi Llanco</h1>
+<h1 align="center">Hola, soy Eddy Alex Chambi Llanco</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eddy-chambi-6111901a6" target="_blank">LinkedIn</a> •
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 Soy un **desarrollador Full Stack** con experiencia en **Frontend, Backend, Mobile y DevOps**, apasionado por construir soluciones eficientes, escalables y con enfoque en la experiencia del usuario.  
 Trabajo con tecnologías modernas como **React, Vue, Node.js, Express, PostgreSQL, MongoDB, Flutter** y herramientas de infraestructura como **Docker y Kubernetes**.
 
